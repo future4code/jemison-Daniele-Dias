@@ -1,0 +1,2 @@
+#Aprendizados da semana
+Durante essa semana eu aprendi o que é o GIT e estudei a partir do desafio de **Assassinato na Linha de Comando**. Eu consegui aprender muitas coisas novas, mas ainda estou com dúvidas. Principalmente relacionadas ao GITHUB. Estou me esforçando para conseguir aprender. Mas fiquei triste por não conseguir avançar no projeto. Sei que cada um tem seu tempo. Quero superar as dificuldades para vencer os obstáculos e me tornar uma DEV. Eu acredito no processo!
