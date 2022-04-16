@@ -42,8 +42,18 @@
 
 //g) Para finalizar, imprima na tela a mensagem: "Olá nome, você tem idade anos". Onde nome e idade são os valores que o usuário inseriu.
 
-let nome = prompt ("Qual o se nome?")
-let idade = prompt ("Qual a sua idade?")
+//let nome = prompt ("Qual o se nome?")
+//let idade = prompt ("Qual a sua idade?")
 
 console.log ("Olá" , nome, "você tem" , idade , "anos")
 
+///2)
+
+// 3)
+
+//let a = 10
+//let b = 25
+//let c = 5
+
+//console.log ("O valor de a é" , c*c)
+//console.log ("O valor de b é" , c+c)
